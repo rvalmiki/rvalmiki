@@ -1,16 +1,13 @@
-### Hi there 👋
+# HR Attrition Machine Learning Solution
 
-<!--
-**rvalmiki/rvalmiki** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+![enter image description here](https://github.com/rvalmiki/rvalmiki/blob/main/bLVjXrpg.png?raw=true)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Details about the project. What did you do. how did you do and any other relevant info that would be necessary for evaluators to judge your work.
+
+This project was created as part of the INSAID capstone to help HR Advisories to detect possible employees who may end up quitting the organization. The data was sources from the HRMS where the details of all past and current employees were being recorded for the last 15 years.
+
+In this project the outcome is a classification where we judge if the employee is likely to quit or not.
+![enter image description here](https://github.com/rvalmiki/rvalmiki/blob/main/Pa4zOKsQ.jpeg?raw=true)
+
+To check out my note book, please click [here](https://github.com/rvalmiki/rvalmiki/blob/main/HR_Analytics.ipynb)
